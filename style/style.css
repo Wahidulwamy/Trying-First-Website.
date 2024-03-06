@@ -1,0 +1,31 @@
+.header{
+    background-image: url('../images/banner/banner3.png');
+    width: 1600px;
+    height: 808px;
+    
+}
+
+.header-section{
+    
+    text-align: right;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15%;
+    padding-top: 15%;
+    padding-left: 60%;
+   
+}
+.header-button{
+    border-radius: 3px;
+    border: 0;
+    font-size: 15px;
+    font-weight: 650;
+    padding: 10px 15px;
+    color: rgb(48, 48, 225);
+}
+.header-para{
+    font-size: smaller;
+    padding-bottom: 10px;
+    
+}
+

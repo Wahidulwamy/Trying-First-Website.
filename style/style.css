@@ -15,7 +15,7 @@
     padding-left: 60%;
    
 }
-.header-button{
+.primary-button{
     border-radius: 3px;
     border: 0;
     font-size: 15px;
@@ -59,7 +59,7 @@ ul li{
 /* main middle */
 .middle-heading{
     text-align: center;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-bottom: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
@@ -71,10 +71,35 @@ ul li{
     text-align: center;
     margin-top: 40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}.middle-para{
+    
+}
+.middle-para{
     color: #757575;
     margin-top: 0;
 }
 .middle-info-heading{
     margin-bottom: 10px;
 }
+
+/* lower section */
+.lower-section{
+    background-image: url('../images/gradient1.png'), url('../images/watch.png');
+    width: 1140px;
+    height: 300px;
+    margin-top: 150px;
+        
+}
+.lower-heading{
+    color: #fff;
+    padding: 8% 60% 0 10%;
+    font-size: xx-large;
+}
+.lower-button{
+        border-radius: 3px;
+        border: 0;
+        font-size: 15px;
+        font-weight: 650;
+        padding: 10px 15px;
+        color: rgb(48, 48, 225); 
+        margin-left: 10%;
+    }

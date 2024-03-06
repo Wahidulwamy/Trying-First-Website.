@@ -103,3 +103,47 @@ ul li{
         color: rgb(48, 48, 225); 
         margin-left: 10%;
     }
+/* footer section */
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1600px;
+    height: 570px;
+    background-color: black;
+    color: #fff;
+    display: flex;
+    margin-top: 150px;
+    
+}
+.footer-info{
+    padding: 150px 0 200px 300px;
+}
+.para-1{
+    padding: 0 50% 0 0;
+    color: #c5c2c2;
+}
+.para-2{
+    color: #c5c2c2;
+}
+
+.form-section{
+    padding: 150px 400px 0 0;
+    
+}
+
+.footer-button{
+    border-radius: 3px;
+    border: 0;
+    font-size: 15px;
+    font-weight: 650;
+    padding: 10px 15px;
+    background-color: rgb(16, 134, 218);
+    color: #fff;
+    
+}
+.email-box{
+    padding: 12px 22px;
+    border: 2px solid #c5c2c2;
+    background-color: black;
+    border-radius: 5px;
+    margin-bottom:15px;
+}
